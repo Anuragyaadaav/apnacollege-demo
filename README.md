@@ -1,2 +1,4 @@
 # apnacollege-demo
-Thi is my First github repo
+This is my First GitHub repo
+<br>
+Author - Shoray Yadav
